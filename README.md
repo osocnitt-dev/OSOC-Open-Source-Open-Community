@@ -1,2 +1,2 @@
-# osoc2024
-OSOC - Open Source Open Community. We are an open source community initiated by MCA students of NIT Trichy. We learn, work and share the joys of Open source technologies and wish to contribute to the Open Source Society.
+# OSOC - Open Source Open Community
+We are an open source community initiated by MCA students of NIT Trichy. We learn, work and share the joys of Open source technologies and wish to contribute to the Open Source Society. We also provide an encouraging environment for development and research on Open source software through collaboration with the open source community, business establishments, and other organizations. The community is expected to be a portal for knowledge & education and to forge relationships with the open source world.
