@@ -15,7 +15,16 @@ OSOC aims to be a vibrant platform where enthusiasts can come together, share kn
 
 ## Our Founder
 
-OSOC was founded by our notable alumnus, Ram Dayal Vaishnav (M.C.A. - 2014). His vision and passion for open-source technology laid the foundation for this community.
+About Ram Dayal Vaishnav - Founder of OSOC
+Ram Dayal Vaishnav is a visionary leader with a solid foundation in IT, data science, and environmental conservation. As the Education Director at CitizenScience.Asia, he leads initiatives to expand citizen science across Asia by fostering networks for biodiversity documentation and engaging diverse communities. He has also contributed to UNEP’s World Environment Situation Room, where he developed tech-driven solutions to support global conservation efforts.
+
+Throughout his career, Ram Dayal has spearheaded impactful projects like the Asia Nature Challenge, which enhanced biodiversity observations and participation across multiple countries, and played a pivotal role in expanding the City Nature Challenge in India to over 200 cities. At WWF-India, he directed the Hyderabad Annual Tree Survey, developing a custom data collection app that streamlined fieldwork and analysis, effectively managing large-scale volunteer engagement.
+
+He has collaborated with various government and non-government organizations, including the Centre for Wildlife Studies, Association for Community Awareness (Cameroon), and Mozilla, implementing business automation tools to enhance research efficiency and data accessibility. His projects also include developing AI chatbots and interactive data visualization tools to simplify complex datasets and improve decision-making processes.
+
+Beyond his work in IT and environmental conservation, Ram Dayal has extensive experience in building strong volunteer communities and is a seasoned public speaker. He has shared his insights at numerous international tech conferences, advocating for the use of open-source technologies to drive real-world impact and amplify conservation efforts.
+
+As the founder of OSOC - Open Source Open Community, Ram Dayal Vaishnav's vision and passion have been instrumental in creating a platform that promotes open-source innovation and collaboration.
 
 ## Get Involved
 
